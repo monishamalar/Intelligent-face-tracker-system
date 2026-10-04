@@ -1,0 +1,21 @@
+# Core Computer Vision & Deep Learning
+ultralytics>=8.1.0
+opencv-python>=4.8.0
+insightface>=0.7.3
+onnxruntime>=1.16.0
+
+# Tracking & Association
+lapx>=0.5.5
+supervision>=0.18.0
+
+# Data, Database & Numerical Computing
+numpy>=1.24.0,<2.0.0
+SQLAlchemy>=2.0.0
+pydantic>=2.0.0
+
+# System, Logging & Hardware Benchmarking
+psutil>=5.9.0
+
+# Testing & Quality
+pytest>=7.4.0
+pytest-mock>=3.12.0

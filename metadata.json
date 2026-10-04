@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Face Tracker & Visitor Counter",
+  "description": "AI-driven unique visitor counter with face detection, tracking, auto-registration, and real-time logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

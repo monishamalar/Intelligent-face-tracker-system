@@ -1,0 +1,34 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Database & runtime logs
+*.db
+*.sqlite3
+logs/entries/*
+logs/exits/*
+logs/registrations/*
+!logs/entries/.gitkeep
+!logs/exits/.gitkeep
+!logs/registrations/.gitkeep
+
+# Weights & test cache
+models/*.pt
+models/*.onnx
+.pytest_cache/
