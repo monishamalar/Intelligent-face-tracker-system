@@ -406,7 +406,7 @@ logs/
 
 ## 11. Demonstration Video & Hackathon Submission
 
-* **Loom / YouTube Demonstration:** https://youtu.be/P0u_jupBVY4
+* **Loom / YouTube Demonstration:** https://youtu.be/zSDnRJtlDAs
 
 ---
 
